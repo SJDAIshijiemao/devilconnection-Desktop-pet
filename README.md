@@ -11,3 +11,4 @@ echo"sdk.dir=/你的/Library/Android/sdk">local.properties
 adb install -r app/build/outputs/apk/debug/app-debug.apk
 
 编译完成后，安装软件即可使用。
+还有就是这个软件你必须得把全部zip给他解压掉，否则会失败
